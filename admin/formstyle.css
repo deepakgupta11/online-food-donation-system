@@ -2,7 +2,7 @@
 
 
 body{
-    background:#06C167;
+    background:#191970;
     /* background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(121,32,153,1) 86%); */
     background-attachment: fixed;
     margin:0;
@@ -23,10 +23,10 @@ h1{
 }
 
 #form button{
-    /* background-color:#06C167; */
+    /* background-color:#191970; */
     background-color: black;
     color:white;
-    /* border: 1px solid #06C167; */
+    /* border: 1px solid #191970; */
     border: 1px solid black;
     border-radius: 5px;
     padding:10px;
@@ -76,7 +76,7 @@ h1{
 }
 
 .input-group.success input{
-    border-color: #0cc477;
+    border-color: #191970;
 }
 .login-signup{
     /* margin-top: 30px; */
@@ -110,7 +110,7 @@ select{
     height: 3px;
     width: 30px;
     /* background-color: #4070f4; */
-    background-color: #06C167;
+    background-color: #191970;
     border-radius: 25px;
 }
 

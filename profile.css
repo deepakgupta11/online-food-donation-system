@@ -1,6 +1,6 @@
 
 body{
-    /* background-color: #20cd79; */
+    /* background-color: #191970; */
  
 
 
@@ -62,7 +62,7 @@ body{
 th{
     position:sticky;
     top:0px;
-    background-color: #37db8c;
+    background-color: #191970;
     /* background-color: rgb(240, 242, 246) */
 
 
@@ -126,7 +126,7 @@ th,td{
     text-align: center;
     align-items: center; 
     text-decoration: underline 5px;
-    text-decoration-color: #06C167;
+    text-decoration-color: #191970;
    }
 
 

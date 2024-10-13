@@ -103,7 +103,7 @@ if($_SESSION['name']==''){
         <div class="top">
             <i class="uil uil-bars sidebar-toggle"></i>
             <!-- <p>Food Donate</p> -->
-            <p  class ="logo" >Food <b style="color: #06C167; ">Donate</b></p>
+            <p  class ="logo" >Feed <b style="color:#191970; ">The Need</b></p>
              <p class="user"></p>
             <!-- <div class="search-box">
                 <i class="uil uil-search"></i>
@@ -192,8 +192,8 @@ var xValues = ["Male","Female"];
 var xplace=["Madurai","chennai","coimbatore"];
 var yplace=[<?php echo json_encode($madurai,JSON_HEX_TAG);?>,<?php echo json_encode($coimbatore,JSON_HEX_TAG);?>,<?php echo json_encode($chennai,JSON_HEX_TAG);?>];
 var yValues = [<?php echo json_encode($male,JSON_HEX_TAG);?>,<?php echo json_encode($female,JSON_HEX_TAG);?>,30];
-var barColors = ["#06C167","blue"];
-var bar=["#06C167","blue","red"]
+var barColors = ["#191970","blue"];
+var bar=["#191970","blue","red"]
 
 new Chart("myChart", {
   type: "bar",

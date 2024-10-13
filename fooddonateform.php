@@ -48,11 +48,11 @@ if(isset($_POST['submit']))
     <title>Food Donate</title>
     <link rel="stylesheet" href="loginstyle.css">
 </head>
-<body style="    background-color: #06C167;">
+<body style="    background-color: #191970;">
     <div class="container">
         <div class="regformf" >
     <form action="" method="post">
-        <p class="logo">Food <b style="color: #06C167; ">Donate</b></p>
+        <p class="logo">Feed <b style="color: #191970; ">The Need</b></p>
         
        <div class="input">
         <label for="foodname"  > Food Name:</label>
@@ -115,33 +115,37 @@ if(isset($_POST['submit']))
         <label for="location"></label>
         <label for="district">District:</label>
 <select id="district" name="district" style="padding:10px;">
-  <option value="chennai">Chennai</option>
-  <option value="kancheepuram">Kancheepuram</option>
-  <option value="thiruvallur">Thiruvallur</option>
-  <option value="vellore">Vellore</option>
-  <option value="tiruvannamalai">Tiruvannamalai</option>
-  <option value="tiruvallur">Tiruvallur</option>
-  <option value="tiruppur">Tiruppur</option>
-  <option value="coimbatore">Coimbatore</option>
-  <option value="erode">Erode</option>
-  <option value="salem">Salem</option>
-  <option value="namakkal">Namakkal</option>
-  <option value="tiruchirappalli">Tiruchirappalli</option>
-  <option value="thanjavur">Thanjavur</option>
-  <option value="pudukkottai">Pudukkottai</option>
-  <option value="karur">Karur</option>
-  <option value="ariyalur">Ariyalur</option>
-  <option value="perambalur">Perambalur</option>
-  <option value="madurai" selected>Madurai</option>
-  <option value="virudhunagar">Virudhunagar</option>
-  <option value="dindigul">Dindigul</option>
-  <option value="ramanathapuram">Ramanathapuram</option>
-  <option value="sivaganga">Sivaganga</option>
-  <option value="thoothukkudi">Thoothukkudi</option>
-  <option value="tirunelveli">Tirunelveli</option>
-  <option value="tiruppur">Tiruppur</option>
-  <option value="tenkasi">Tenkasi</option>
-  <option value="kanniyakumari">Kanniyakumari</option>
+<option value="bengaluru" selected>Bengaluru</option>
+<option value="bagalkot">Bagalkot</option>
+<option value="ballari">Ballari</option>
+<option value="belagavi">Belagavi</option>
+<option value="bengaluru-rural">Bengaluru Rural</option>
+<option value="bidar">Bidar</option>
+<option value="chamarajanagar">Chamarajanagar</option>
+<option value="chikkaballapur">Chikkaballapur</option>
+<option value="chikkamagaluru">Chikkamagaluru</option>
+<option value="chitradurga">Chitradurga</option>
+<option value="dakshina-kannada">Dakshina Kannada</option>
+<option value="davanagere">Davanagere</option>
+<option value="dharwad">Dharwad</option>
+<option value="gadag">Gadag</option>
+<option value="hassan">Hassan</option>
+<option value="haveri">Haveri</option>
+<option value="kalaburagi">Kalaburagi</option>
+<option value="kodagu">Kodagu</option>
+<option value="kolar">Kolar</option>
+<option value="koppal">Koppal</option>
+<option value="mandya">Mandya</option>
+<option value="mysuru">Mysuru</option>
+<option value="raichur">Raichur</option>
+<option value="ramanagara">Ramanagara</option>
+<option value="shivamogga">Shivamogga</option>
+<option value="tumakuru">Tumakuru</option>
+<option value="udupi">Udupi</option>
+<option value="uttara-kannada">Uttara Kannada</option>
+<option value="vijayapura">Vijayapura</option>
+<option value="yadgir">Yadgir</option>
+
 </select> 
 
         <label for="address" style="padding-left: 10px;">Address:</label>

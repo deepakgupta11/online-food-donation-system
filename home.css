@@ -2,7 +2,7 @@
 :root{
   --navcolor:white;
   --navfont:black;
-  --green:#06C167;
+  --green:#191970;
   --box-shadow:0 .5rem 1rem rgba(0,0,0.1)
 }
 *{
@@ -102,7 +102,7 @@ header{
     left: 0;
     right: 0;
     width: 100vw;
-    background-color: #06C167;
+    background-color: #191970;
     transition: 0.2s;
     overflow: hidden;
 
@@ -168,7 +168,7 @@ and (min-device-width : 1200px)
 .content
 {
   padding: 20px;
-  background-color: #06C167;
+  background-color: #191970;
 
   z-index: 0;
 }
@@ -296,7 +296,7 @@ and (min-device-width : 1200px)
 }
 
 .footer h2 span {
-  color: #06C167;
+  color: #191970;
 }
 
 .footer .menu {
@@ -313,11 +313,11 @@ and (min-device-width : 1200px)
 }
 
 .footer .menu a:hover {
-  color: #06C167;
+  color: #191970;
 }
 
 .footer .name {
-  color: #06C167;
+  color: #191970;
   font-size: 14px;
   font-weight: normal;
   margin: 0;
@@ -431,7 +431,7 @@ and (min-device-width : 1200px)
  text-align: center;
  align-items: center; 
  text-decoration: underline 5px;
- text-decoration-color: #06C167;
+ text-decoration-color: #191970;
 }
 .heading:hover{
   /* letter-spacing: 3px; */

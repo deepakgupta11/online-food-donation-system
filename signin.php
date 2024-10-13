@@ -62,7 +62,7 @@ if (isset($_POST['sign'])) {
 
             <form action=" " method="post">
 
-                <p class="logo" style="">Food <b style="color:#06C167; ">Donate</b></p>
+                <p class="logo" style="">Feed <b style="color:#191970; ">The Need</b></p>
                 <p id="heading" style="padding-left: 1px;"> Welcome back ! <img src="" alt=""> </p>
 
                 <div class="input">

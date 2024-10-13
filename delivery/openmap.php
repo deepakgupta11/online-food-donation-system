@@ -32,7 +32,7 @@
         text-align: center;
       }
       .nav-bar a{
-        background:#06C167;
+        background:#191970;
       }
       @media screen and (max-width: 600px) {
        #map-container {
@@ -43,7 +43,7 @@
   </head>
   <body>
   <header>
-        <div class="logo">Food <b style="color: #06C167;">Donate</b></div>
+        <div class="logo">Feed <b style="color:#191970;">The Need</b></div>
         <div class="hamburger">
             <div class="line"></div>
             <div class="line"></div>

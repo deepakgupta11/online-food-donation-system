@@ -111,7 +111,7 @@ table {
   
   button, input{
     font-size: 18px;
-  background:#06C167;
+  background:#191970;
   padding: 5px;
   /* text-transform: uppercase; */
   text-decoration: none;
@@ -132,7 +132,7 @@ table {
     /* color: #fff; */
     letter-spacing: 2px;
     transition: 0.2s;
-    /* border: #06C167; */
+    /* border: #191970; */
   }
   
   
@@ -152,7 +152,7 @@ a{
     display: inline-block;
 /* font-size: 1em; */
 font-size: 20px;
-background:#06C167;
+background:#191970;
 padding: 10px 30px;
 /* text-transform: uppercase; */
 text-decoration: none;
